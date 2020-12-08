@@ -1,0 +1,341 @@
+#logo{ 
+    width: 180px;
+    margin-bottom: 45px;
+   
+}
+#input{ 
+   width: 150px;
+   height: 20px;
+   margin-left: 10px;
+
+}
+/* font embent */
+@font-face{ font-family: 'medium';
+    src: url("../fonts/Rubik-Medium.ttf");
+}
+@font-face{ 
+    font-family: "light";
+    src: url("../fonts/Rubik-Light.ttf");
+}
+@font-face{
+    font-family: "bold";
+    src: url("../fonts/Rubik-Bold.ttf");
+}
+.text-bold{
+    font-weight: "bold";
+}
+.text-medium{
+    font-family: "medium";
+}
+.text-light{
+    font-family: "light";
+}
+
+#twice #input{
+    float: left;
+}
+#input h6{
+    margin-left: 50px;
+    color: aliceblue;
+}
+#twice{
+    margin-left: 455px;
+    margin-bottom: 90px;
+}
+#butt{
+    color: #ffffff bold;
+    font-size: 20;
+    font-weight: 500;
+    width: auto;
+    height: 25px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    line-height: 10px;
+}
+#twice p{
+    font-size: 13px;
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+#ppp{
+    width: auto;
+    height: 40px;
+}
+#font form{
+    float: left;
+}
+#ffff #ddddd{
+    float: left;
+    
+}
+#ddddd a{
+    color: darkgray;
+    font-size: small;
+}
+#ddddd ul li{
+    list-style: none;
+}
+#ddddd{
+    margin-left: -20px;
+}
+
+#sss a{
+    margin-left: 20px;
+    padding: 1px;
+    color: royalblue;
+    
+}
+#sss{
+    margin-top: 10px;
+}
+#coc{
+    color: darkgray;
+}
+
+/* home */
+#search{
+    height: 28px;
+    
+}
+#button-addon2{
+    height: 28px;
+    background-color: #EBEDF0;
+    border: none;
+    box-shadow: none;
+}
+#iii{
+    margin-bottom: 5px;
+}
+#btn_group button{
+    background-color: transparent;
+    height: 28px;
+    line-height: 0px;
+    border: none;
+    box-shadow: none;
+    margin-bottom: 10px;
+}
+#btn_group{
+    height: 36px;
+}
+#nyi{
+    width: 25px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+#btn_group button:hover{
+    background-color: silver;
+}
+#trd_gp{
+    background-color: transparent;
+    border: none;
+}
+#yote{
+    font-size: 21px!important;
+}
+#trd_gp:focus{
+    box-shadow: none;
+}
+#rrr{
+    height: 30px;
+}
+
+    
+
+#narr{
+    background-color: #3B5999;
+    height: 50px;
+    
+   
+}
+#p_tent{
+    font-size: 12px;
+
+}
+
+#lll{
+    width: 55px;
+}
+#asss{
+    font-weight: 500;
+}
+#btn_group{
+    padding-left: 135px;
+}
+#body{
+    background-color: #E9EBEE;
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+}
+#add{
+    color: black;
+    text-decoration: none;
+    padding-right: 50px;
+  
+}
+#body_but{
+    width: 176px;
+    height: 30px;
+    border: none;
+    background-color: transparent;
+}
+#body_but:hover{
+    background-color: floralwhite;
+}
+#sp .svg-inline--fa.fa-w-16{
+    width: 0.3em;
+}
+#mess{
+    padding-right: 60px;
+    text-decoration: none;
+    color: gray!important;
+}
+#newsfeed{
+    padding-right: 30px;
+    text-decoration: none;
+    color: gray!important;
+    font-weight: 500;
+}
+#watch{
+    padding-right: 80px;
+    color: gray!important;
+    text-decoration: none;
+}
+#web{
+    padding-right: 20px;
+    color: gray!important;
+    text-decoration: none;
+}
+#japa{
+    padding-right: 25px;
+    color: gray!important;
+    text-decoration: none;
+}
+#part{
+    padding-right: 40px;
+    color: gray!important;
+    text-decoration: none; 
+}
+#school{
+    padding-right: 90px;
+    color: gray!important;
+    text-decoration: none; 
+}
+#dev{
+    padding-right: 40px;
+    color: gray!important;
+    text-decoration: none; 
+}
+.col-md-2 h6{
+    padding-left: 10px;
+}
+#lgbutton{
+    width: 100%;
+    height: 50px;
+    line-height: center;
+}
+#smile{
+    width: 100%;
+    height: 180px;
+}
+#plus{
+    width: 100%;
+    height: 60px;
+    background-color: #ffffff;
+
+}
+#minus{
+    margin-top: 6px;
+    padding-left: 37px;
+
+}
+#plu{
+  
+    
+    margin-top: 10px;
+    padding-left: 70px;
+}
+
+#minus a{
+    font-size: small;
+    color: #3B5999
+}
+#post{
+    width: 37px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+
+}
+#form-control{
+    border: none;
+}
+#form-control:focus{
+    box-shadow: none;
+}
+#btsm:hover{
+    background-color: silver;
+
+}
+#btsm{
+    border-radius: 50px;
+}
+#btsm:focus{
+    box-shadow: none;
+}
+#posts{
+    width: 120px;
+    height: 180px;
+    border-radius: 10%;
+    
+}
+#po{
+    float: left;
+    padding: 7px;
+}
+#card-body{
+    width: 100%;
+    height: 80px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+#span{
+    margin-bottom: 5px;
+    
+}
+#card-bodys{
+    width: 100%;
+    height: 220px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+#jar{
+    float: left;
+    padding: 3px;
+}
+#card-img-top{
+    width: 100%;
+}
+
+#btsms:hover{
+    background-color: silver;
+}
+
+#btsms:focus{
+    box-shadow: none;
+}  
+#card-bodya{
+    height: 130px;
+}
+
+#cardd{
+    height: 150px;
+    margin: 0;
+    padding: 0;
+}
+#ffff{
+  
+    width: 100%;
+    height: 70px;
+}
+
